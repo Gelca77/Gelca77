@@ -71,4 +71,4 @@ Attendee: Black Hat(USA), IEEE S&P, WiCyS, DEFCON, RhythmWorld
 
 
 
-✨ Always curious, always learning - building bridges between human behavior/psychology and cybersecurity defense.
+✨ Always curious, always learning - building bridges between human psychology and cybersecurity defense.
