@@ -4,7 +4,7 @@ Cybersecurity Researcher | NSF CSGrad4US Fellow | Aspiring PhD Student | MS Cybe
 
 I’m passionate about building human-centered defenses that address the vulnerabilities attackers exploit. As an aspiring PhD student, I aim to advance interdisciplinary research at the intersection of AI, psychology, and cybersecurity.
 
-#🔬 Research Interests
+🔬 Research Interests
 
 AI-driven approaches for detecting and mitigating human-centered cyber threats
 
@@ -12,7 +12,7 @@ Social engineering, NLP-based deception detection, and adversarial ML
 
 Psychological and behavioral factors exploited in cyberattacks
 
-#📚 Academic Background
+📚 Academic Background
 
 NSF CSGrad4US Fellow 2025 cohort – 3 years of NSF funding for PhD preparation and graduate study
 
