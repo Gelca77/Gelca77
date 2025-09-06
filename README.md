@@ -1,6 +1,6 @@
 👋 Hi, I’m Angelica Shelman
 
-Cybersecurity Researcher | NSF CSGrad4US Fellow | Aspiring PhD Student | MS Cybersecurity + MS Psychology
+*Cybersecurity Researcher | NSF CSGrad4US Fellow | Aspiring PhD Student | MS Cybersecurity + MS Psychology*
 
 I’m passionate about building human-centered defenses that address the vulnerabilities attackers exploit. As an aspiring PhD student, I aim to advance interdisciplinary research at the intersection of AI, psychology, and cybersecurity.
 
