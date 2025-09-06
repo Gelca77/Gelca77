@@ -4,7 +4,7 @@ Cybersecurity Researcher | NSF CSGrad4US Fellow | Aspiring PhD Student | MS Cybe
 
 I’m passionate about building human-centered defenses that address the vulnerabilities attackers exploit. As an aspiring PhD student, I aim to advance interdisciplinary research at the intersection of AI, psychology, and cybersecurity.
 
-##🔬 Research Interests
+**🔬 Research Interests**
 
 AI-driven approaches for detecting and mitigating human-centered cyber threats
 
@@ -12,7 +12,7 @@ Social engineering, NLP-based deception detection, and adversarial ML
 
 Psychological and behavioral factors exploited in cyberattacks
 
-##📚 Academic Background
+**📚 Academic Background**
 
 NSF CSGrad4US Fellow 2025 cohort – 3 years of NSF funding for PhD preparation and graduate study
 
@@ -22,7 +22,7 @@ M.S. Psychology, University of Phoenix (2014)
 
 B.S. Human Development, Metropolitan State University of Denver (2013)
 
-##🛡️ Certifications
+**🛡️ Certifications**
 
 CompTIA Security+ (2024)
 
@@ -32,7 +32,7 @@ Fortinet Networking Fundamentals (2024)
 
 Tier 1 SOC Analyst (2024)
 
-##🖥️ Technical Skills
+**🖥️ Technical Skills**
 
 Programming & Scripting: Python (automation, log analysis) C, BASH, Powershell
 
@@ -42,7 +42,7 @@ Frameworks & Compliance: MITRE ATT&CK, ISO 27001, PCI DSS
 
 Cloud Platforms: Azure (hands-on), AWS (competition exposure)
 
-##📂 Research Portfolio
+**📂 Research Portfolio**
 
 Project Pisces: SOC Threat Analysis:
 Live SOC researcher, generating security tickets, investigating poor reputation IPs, malware installation attempts, credential compromise, and social engineering alerts. 
@@ -59,17 +59,17 @@ Survey of 22 parents of young children to test links between early solid food in
 📂 [View the full Research Portfolio HERE](https://github.com/Gelca77/research-portfolio)
 
 
-##🌍 Outreach & Activities
+**🌍 Outreach & Activities**
 
 Member: Women in Cybersecurity (WiCyS), AnitaB
 
 Attendee: Black Hat(USA), IEEE S&P, WiCyS, DEFCON, RhythmWorld
 
 
-##📫 Connect  
+**📫 Connect**
 - [LinkedIn](https://www.linkedin.com/in/angelica-s-834226174/)
 
 
 
 
-##✨ Always curious, always learning - building bridges between human psychology and cybersecurity defense.
+**✨ Always curious, always learning - building bridges between human psychology and cybersecurity defense.*
