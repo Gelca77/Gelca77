@@ -45,19 +45,15 @@ Cloud Platforms: Azure (hands-on), AWS (competition exposure)
 **📂 Research Portfolio**
 
 *Project Pisces: SOC Threat Analysis:*
-
 Live SOC researcher, generating security tickets, investigating poor reputation IPs, malware installation attempts, credential compromise, and social engineering alerts. 
 
 *Privacy & Metadata in Encrypted Messaging:*
-
 Technical research on Session, an end-to-end encrypted messenger. Evaluated cryptographic protocols (Signal, X25519), onion routing, decentralized service nodes, and metadata minimization for anonymous communication.
 
 *Psychology Graduate Research: Temperament & Identity*
-
 Survey-based study of 44 participants analyzing the relationship between temperament, lesbian identity, and partner preference. Findings revealed significant links between ethnicity, identity terms, and partner preferences.
 
 *Human Development Research: Early Food Exposure & Allergies*
-
 Survey of 22 parents of young children to test links between early solid food introduction and food allergies. Results indicated following pediatric guidelines reduced allergy risk, with implications for public health and parental practices.
 
 *📂 [View the full Research Portfolio HERE](https://github.com/Gelca77/research-portfolio)*
@@ -76,4 +72,4 @@ Attendee: Black Hat(USA), IEEE S&P, WiCyS, DEFCON, RhythmWorld
 
 
 
-**✨ Always curious, always learning - building bridges between human psychology and cybersecurity defense.*
+*✨ Always curious, always learning - building bridges between human psychology and cybersecurity defense.*
