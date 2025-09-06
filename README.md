@@ -33,7 +33,7 @@ Tier 1 SOC Analyst (2024)
 
 🖥️ Technical Skills
 
-Programming & Scripting: Python (automation, log analysis)
+Programming & Scripting: Python (automation, log analysis) C, BASH, Powershell
 
 Security Tools: LogRhythm, OpenSearch, SentinelOne, Microsoft Defender, Red Canary, Nessus, Palo Alto, CyberArk
 
