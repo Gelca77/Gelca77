@@ -41,7 +41,7 @@ Frameworks & Compliance: MITRE ATT&CK, ISO 27001, PCI DSS
 
 Cloud Platforms: Azure (hands-on), AWS (competition exposure)
 
-🚀 Research Papers
+📂 Research Portfolio
 
 Project Pisces: SOC Threat Analysis:
 Live SOC researcher, generating security tickets, investigating poor reputation IPs, malware installation attempts, credential compromise, and social engineering alerts. 
@@ -65,9 +65,9 @@ Member: Women in Cybersecurity (WiCyS), AnitaB
 Attendee: Black Hat(USA), IEEE S&P, WiCyS, DEFCON, RhythmWorld
 
 
-📫 Connect
+📫 Connect  
+- [LinkedIn](https://www.linkedin.com/in/angelica-s-834226174/)
 
-LinkedIn(https://www.linkedin.com/in/angelica-s-834226174/)
 
 
 
