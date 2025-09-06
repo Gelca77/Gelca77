@@ -67,7 +67,7 @@ Attendee: Black Hat(USA), IEEE S&P, WiCyS, DEFCON, RhythmWorld
 
 📫 Connect
 
-LinkedIn | https://www.linkedin.com/in/angelica-s-834226174/
+LinkedIn(https://www.linkedin.com/in/angelica-s-834226174/)
 
 
 
