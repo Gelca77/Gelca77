@@ -55,7 +55,7 @@ Survey-based study of 44 participants analyzing the relationship between tempera
 Human Development Research: Early Food Exposure & Allergies
 Survey of 22 parents of young children to test links between early solid food introduction and food allergies. Results indicated following pediatric guidelines reduced allergy risk, with implications for public health and parental practices.
 
-📂 [View the full Research Portfolio →](https://github.com/Gelca77/research-portfolio)
+📂 [View the full Research Portfolio HERE](https://github.com/Gelca77/research-portfolio)
 
 
 🌍 Outreach & Activities
