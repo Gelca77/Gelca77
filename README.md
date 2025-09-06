@@ -7,9 +7,9 @@ I’m passionate about building human-centered defenses that address the vulnera
 
 AI-driven approaches for detecting and mitigating human-centered cyber threats
 
-Social engineering, phishing, and adversarial ML detection
+Social engineering, NLP-based deception detection, and adversarial ML
 
-Human behavior/psychology in cybersecurity decision-making
+Psychological and behavioral factors exploited in cyberattacks
 
 📚 Academic Background
 
@@ -19,7 +19,7 @@ M.S. Cybersecurity, University of Denver (2024, GPA 3.8)
 
 M.S. Psychology, University of Phoenix (2014)
 
-B.S. Human Development, Metropolitan State University of Denver (2014)
+B.S. Human Development, Metropolitan State University of Denver (2013)
 
 🛡️ Certifications
 
